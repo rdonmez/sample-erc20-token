@@ -1,5 +1,6 @@
 # Sample ERC20 Token 
-     An example of ERC20 Token standard implementation [eip-20](https://eips.ethereum.org/EIPS/eip-20)
+
+An example of ERC20 Token standard implementation [eip-20](https://eips.ethereum.org/EIPS/eip-20)
 
 ## 1. Install Dependencies
 ```
