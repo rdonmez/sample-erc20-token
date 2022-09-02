@@ -1,0 +1,24 @@
+{
+  "name": "sample-erc20-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdonmez/sample-erc20-token.git"
+  },
+  "author": "Ramazan Dönmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdonmez/sample-erc20-token/issues"
+  },
+  "homepage": "https://github.com/rdonmez/sample-erc20-token#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "ethers": "^5.7.0"
+  }
+}
